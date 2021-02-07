@@ -29,4 +29,7 @@ Connect the integrated wiring using the GPIO pin guide below (These pins will wo
   <img src="https://github.com/RecognitionDesigns/DCousins_Charger/blob/main/images/GPIO_DC_Charger.png" width="420" title="GPIO Pin Out">
 </p>
 
+For more information you can find Dan Cousins at the Official Digital Dream Labs Vector Owners group page on Facebook:
+https://www.facebook.com/groups/AnkiVector
+
 Have fun!
