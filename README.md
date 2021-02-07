@@ -5,7 +5,7 @@
 </p>
 
 This repo is for use with Dan Cousins DDL/ANKI Vector charger with built in fan and LEDs.
-The charger requires a raspberry pi with GPIO pins installed to work to its fully potential.
+The charger requires a raspberry pi with GPIO pins installed to work to its full potential.
 
 The script runs the fan and LEDs using the built in IR detection module in the charger.
 Install this script on your Raspberry Pi and make it executable and run at startup.
