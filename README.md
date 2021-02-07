@@ -18,6 +18,7 @@ Use crontab to run the script at startup (there are other methods to do this but
   ```
   sudo crontab -e
   ```
+Then enter this line a the bottom of the crontab file:
   ```
   @reboot /home/user/path-to-script/ir_detection.py
   ```
