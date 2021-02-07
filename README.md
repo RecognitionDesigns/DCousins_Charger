@@ -1,6 +1,6 @@
 # DCousins_Charger
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/RecognitionDesigns/DCousins_Charger/blob/main/images/DC_Charger.jpg?raw=true)
 
 This repo is for use with Dan Cousins DDL/ANKI Vector charger with built in fan and LEDs.
 The charger requires a raspberry pi with GPIO pins installed to work to its fully potential.
